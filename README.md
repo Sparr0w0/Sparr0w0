@@ -3,8 +3,6 @@ Vintage computer enthusiast
 
 Doing my best
 
-https://google.com
-chrome://extensions
 <!--
 **Sparr0w0/Sparr0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
