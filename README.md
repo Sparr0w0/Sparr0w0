@@ -1,5 +1,6 @@
 ## Hi there 👋
 Vintage computer enthusiast
+arch user (btw)
 
 `sudo rm -rf / --no-preserve-root`
 <!--
