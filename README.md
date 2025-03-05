@@ -1,2 +1,2 @@
 ## Hi there 👋
-bash > python
+
